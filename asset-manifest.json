@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/freecodecamp-quote-generator/static/css/main.ff50685d.chunk.css",
+    "main.js": "/freecodecamp-quote-generator/static/js/main.4e905b40.chunk.js",
+    "main.js.map": "/freecodecamp-quote-generator/static/js/main.4e905b40.chunk.js.map",
+    "runtime~main.js": "/freecodecamp-quote-generator/static/js/runtime~main.384c89fa.js",
+    "runtime~main.js.map": "/freecodecamp-quote-generator/static/js/runtime~main.384c89fa.js.map",
+    "static/js/2.e703e8cc.chunk.js": "/freecodecamp-quote-generator/static/js/2.e703e8cc.chunk.js",
+    "static/js/2.e703e8cc.chunk.js.map": "/freecodecamp-quote-generator/static/js/2.e703e8cc.chunk.js.map",
+    "index.html": "/freecodecamp-quote-generator/index.html",
+    "precache-manifest.02abcd728364de8e81119940aa6d1b7d.js": "/freecodecamp-quote-generator/precache-manifest.02abcd728364de8e81119940aa6d1b7d.js",
+    "service-worker.js": "/freecodecamp-quote-generator/service-worker.js",
+    "static/css/main.ff50685d.chunk.css.map": "/freecodecamp-quote-generator/static/css/main.ff50685d.chunk.css.map"
+  }
+}
